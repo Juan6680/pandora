@@ -1,0 +1,42 @@
+.body {
+ background-image: url("fondo.jpeg");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 100vh;
+ color:aqua;
+ font-family: "Arial";
+ font-size: 20px;
+ text-align: center;
+ opacity: 0.9;;
+
+
+}
+.h1 {
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 50px;
+   color :"blue";
+   text-shadow: 2px 2px 4px #000000;
+   margin-top :20px;
+
+
+}
+title {   font-family: 'Courier New', Courier, monospace;
+   font-size: 30px;
+   color: blue;
+   text-shadow: 2px 2px 4px #000000;
+   margin-top: 20px;
+
+
+
+}
+.footer {
+
+    font-family:'Arial' ;
+    font-size: 20px;
+    color:aqua;
+    margin-top: 100px;
+    
+}
+
+
